@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<Regular_Pentagon xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <radius>80</radius>
+</Regular_Pentagon>
